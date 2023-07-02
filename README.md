@@ -1,0 +1,2 @@
+# typescriptClass
+Typescript OO Class
