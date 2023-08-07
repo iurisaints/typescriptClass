@@ -1,4 +1,4 @@
-# O Mágico Encapsulamento! 🔒✨
+# O Encapsulamento! 🔒✨
 
 Sejam bem-vindos ao mundo misterioso do Encapsulamento, um dos conceitos mais poderosos da Programação Orientada a Objetos!
 
