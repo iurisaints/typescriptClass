@@ -1,4 +1,4 @@
-# Comunicação Mágica Entre Classes 🧙‍♀️🔮
+# Comunicação entre Classes 🧙‍♀️🔮
 
 Bem-vindos à fascinante jornada da Comunicação entre Classes! Neste mundo mágico da Programação Orientada a Objetos, aprendemos a arte de como diferentes classes podem se relacionar, colaborar e até mesmo se unir para criar sistemas poderosos!
 
