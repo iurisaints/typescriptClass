@@ -130,4 +130,3 @@ rbTree.insert(15);
 rbTree.delete(5); // Exclui o valor 5 da árvore
 ```
 
-A exclusão é um tópico avançado, e a implementação completa pode ser mais complexa. No entanto, a ideia geral é manter as propriedades da árvore enquanto excluímos os nós. Na próxima aula, abordaremos casos mais avançados de árvores, como árvores B e árvores Trie.
