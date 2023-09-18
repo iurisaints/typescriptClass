@@ -1,4 +1,3 @@
-Claro, na quinta aula sobre árvores, continuaremos explorando árvores binárias de busca, desta vez focando nas árvores Rubro-Negras.
 
 ## Árvores Rubro-Negras (Red-Black Trees)
 
