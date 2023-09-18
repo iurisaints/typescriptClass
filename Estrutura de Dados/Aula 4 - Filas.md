@@ -1,6 +1,4 @@
-# Aula sobre Filas em TypeScript
-
-## Introdução
+# Filas em TypeScript
 
 Uma fila é uma estrutura de dados que segue a regra "primeiro a entrar, primeiro a sair" (FIFO - First-In, First-Out). Em outras palavras, o elemento que foi adicionado primeiro é o primeiro a ser removido. Filas são amplamente utilizadas em programação para tarefas que envolvem armazenamento temporário e gerenciamento de elementos em uma ordem específica.
 
