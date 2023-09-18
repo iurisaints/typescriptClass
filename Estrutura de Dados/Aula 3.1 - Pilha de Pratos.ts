@@ -1,4 +1,3 @@
-```typescript
 class PilhaDePratos {
   private pratos: string[] = [];
 
@@ -49,4 +48,3 @@ console.log(`A pilha de pratos está vazia? ${pilhaDePratos.estaVazia()}`);
 
 // Obtendo o tamanho da pilha
 console.log(`Tamanho da pilha: ${pilhaDePratos.tamanho()}`);
-```
