@@ -12,7 +12,7 @@ class FilaDeParque {
       console.log("A fila está vazia.");
       return undefined;
     }
-    return this.pessoas.shift();
+    return this.pessoas.pop();
   }
 
   // Retorna a primeira pessoa da fila sem removê-la
