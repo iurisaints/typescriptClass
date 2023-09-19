@@ -3,7 +3,7 @@ class FilaDeParque {
 
   // Adiciona uma pessoa ao final da fila
   entrarNaFila(nome: string): void {
-    this.pessoas.push(nome);
+    this.pessoas.unshift(nome);
   }
 
   // Remove e retorna a primeira pessoa da fila
