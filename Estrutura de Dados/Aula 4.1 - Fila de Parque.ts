@@ -21,7 +21,7 @@ class FilaDeParque {
       console.log("A fila está vazia.");
       return undefined;
     }
-    return this.pessoas[0];
+    return this.pessoas[this.pessoas.length - 1];
   }
 
   // Verifica se a fila está vazia
