@@ -17,7 +17,7 @@ O -g é para instalar globalmente no seu computador.
 Agora que o ambiente está praticamente pronto, só falta organizar seu package.json se assim quiser.
 Caso não, para você utilizar seus códigos, você irá transpilar para javascript e depois interpretar no terminal dessa forma:
 ```
-npm tsc arquivo.ts
+npx tsc arquivo.ts
 node arquivo.js
 ```
 
