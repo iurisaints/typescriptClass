@@ -29,7 +29,7 @@ npm init
 e depois modifique seu package.json inserindo:
 ```json
 script{
-  start: "npm tsc & node arquivo.ts"
+  start: "npx tsc & node arquivo.ts"
 }
 ```
 
