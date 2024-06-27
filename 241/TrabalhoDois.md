@@ -1,4 +1,4 @@
-### Trabalho de Orientação a Objetos com TypeScript: Desenvolvimento de um Sistema de Jogos
+### Trabalho Dois: Desenvolvimento de um Sistema de Jogos
 
 #### Introdução
 Neste trabalho, você desenvolverá um sistema de gerenciamento de jogos utilizando TypeScript. O objetivo é aplicar os princípios da Programação Orientada a Objetos (POO) - abstração, herança, encapsulamento, comunicação entre classes e tipagem - para criar uma estrutura robusta e bem organizada. Você criará classes que representem diferentes tipos de jogos e suas características, além de implementar funcionalidades básicas de um sistema de gerenciamento de jogos.
