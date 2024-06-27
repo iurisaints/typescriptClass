@@ -10,6 +10,7 @@ Criar um sistema para gerenciar informações sobre produtos e vendas em uma loj
     - Realizar algumas vendas, associando cada venda a um produto e definindo a quantidade vendida.
 - **Criar métodos:**
     - Método get tanto para produtos quanto vendas.
+    - Método set tanto para produtos quanto vendas.
     - Cálculo de lucro
     - Cálculo de vendas realizadas
 - **Testar o sistema:**
