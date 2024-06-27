@@ -17,3 +17,6 @@ Criar um sistema para gerenciar informações sobre produtos e vendas em uma loj
     - Calcular o lucro de um produto específico.
     - Exibir as informações de uma venda específica.
     - Calcular o total de vendas realizadas.
+- Envio da atividade:
+      Crie um repositório no GitHub para a disciplina e inserir o link aqui:
+      https://docs.google.com/document/d/10C6as_UzXPO0NJso7xOHNzlpe1-XldtcfYwKg9L60WY/edit
