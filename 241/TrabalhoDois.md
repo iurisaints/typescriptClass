@@ -20,14 +20,14 @@ Neste trabalho, você desenvolverá um sistema de gerenciamento de jogos utiliza
      - Propriedades:
        - `plataforma: string`
      - Métodos:
-       - `constructor(titulo: string, genero: string, classificacaoEtaria: number, plataforma: string)`
+       - `super(titulo: string, genero: string, classificacaoEtaria: number, plataforma: string)`
        - Sobrescreva o método `getDetalhes()` para incluir a plataforma.
 
    - **Classe JogoDeTabuleiro:** Crie uma classe `JogoDeTabuleiro` que herde de `Jogo` e adicione as seguintes propriedades e métodos:
      - Propriedades:
        - `numeroDeJogadores: number`
      - Métodos:
-       - `constructor(titulo: string, genero: string, classificacaoEtaria: number, numeroDeJogadores: number)`
+       - `super(titulo: string, genero: string, classificacaoEtaria: number, numeroDeJogadores: number)`
        - Sobrescreva o método `getDetalhes()` para incluir o número de jogadores.
 
 3. **Encapsulamento:**
